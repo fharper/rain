@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/fharper/Documents/code/rain/rain/Rainstorm.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:Rainstorm.mp3">
+   </FileRef>
+   <FileRef
+      location = "self:rain.xcodeproj">
+   </FileRef>
+</Workspace>
